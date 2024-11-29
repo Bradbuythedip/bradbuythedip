@@ -1,0 +1,58 @@
+Bradley W. Merrill
+Mechanical Engineer | Full Stack Developer
+bwmengineer428@gmail.com | 845.332.9684
+
+SUMMARY
+Innovative engineer with 10+ years of experience combining mechanical design and software engineering expertise. Specializes in full-stack development, hardware solutions, and emerging technologies including blockchain, automation, and machine learning. Proven track record of delivering customer-focused solutions while ensuring compliance with international standards.
+
+PROFESSIONAL EXPERIENCE
+
+Nuvera Fuel Cells | Electromechanical Design Engineer | 2023-2024 | Billerica, MA
+• Led high-voltage fuel cell system compliance testing, improving insulation resistance in humid conditions
+• Developed ISO-compliant work instructions and high-voltage testing methodologies
+• Implemented IQ/OQ/PQ protocols for new equipment validation
+• Streamlined assembly processes through cross-functional team collaboration
+
+Aved Electronics | Electromechanical Engineer | 2022-2023 | Billerica, MA
+• Designed automation and vision inspection systems, generating $100K+ annual savings
+• Engineered mechanical jigs and fixtures to optimize production workflows
+• Implemented Keyence AI vision systems for laser weld inspection, achieving 0% scrap rate
+• Led Six Sigma process improvement initiatives
+
+Desktop Metal | Contract Engineer | 2021-2022 | Burlington, MA
+• Optimized additive manufacturing processes and 3D printing production workflows
+• Reduced prototype development time and costs through process improvements
+
+ASM NEXX | Mechanical Engineer III | 2019-2020 | Billerica, MA
+• Managed additive manufacturing operations, focusing on complex semiconductor components
+• Designed and scaled 3D-printed parts including air knives for high-performance systems
+
+Amphenol TCS | Product Engineer | 2013-2018 | Nashua, NH
+• Led development of Xcede and X2 high-speed differential pair connector platforms
+• Designed injection molds, pneumatic presses, and stamping dies
+• Conducted qualification testing and managed international manufacturing optimization
+
+TECHNICAL EXPERTISE
+• Programming: Python, Rust, Java, C++, LabVIEW
+• Web Development: Full-stack (HTML, CSS, JavaScript, Node.js, React, SQL)
+• Blockchain: Smart contracts, Solidity, Rust for Solana
+• Engineering Software: Creo, SolidWorks, AutoCAD, Windchill, Keyence Vision Systems
+• Machine Learning: AI vision systems, pattern analysis
+• Hardware: Custom PC builds, GPU mining rigs, robotics
+• Standards: ISO, GBT, ANSI, ASME
+
+EDUCATION
+Worcester Polytechnic Institute
+B.S. Mechanical Engineering, 2013
+GPA: 3.4, High Distinction
+
+CERTIFICATIONS & AWARDS
+• Certified SolidWorks Associate (CSWA)
+• ESET Cyber Security Awareness Training
+• Henry Strage Innovation Award, 1st Place
+• Sean Gleason Memorial Award
+
+NOTABLE PROJECTS
+• AI Vision System: Developed defect detection system for laser welds ($100K monthly savings)
+• Femto Connector: Created high-performance connector meeting Telcordia standards
+• Blockchain Development: Built Solana-based applications and derived legacy Bitcoin private keys
